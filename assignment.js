@@ -1,3 +1,5 @@
+// https://github.com/shohel2000/assignment.js
+
 // ===== Kilometer To Meter Part =====
 function kilometerToMeter(kilo){
     if(kilo >= 0){
@@ -10,9 +12,6 @@ function kilometerToMeter(kilo){
 }
 var resultMeter = kilometerToMeter(5);
 console.log(resultMeter);
-
-
-
 
 
 // ===== Budget Calculation Part =====
@@ -31,9 +30,6 @@ function budgetCalculator(watch, phone, laptop) {
 }
  var totalBudget = budgetCalculator(10, 2, 5);
  console.log(totalBudget);
-
-
-
 
 
 // ===== Calculate of Hotel Cost Part
@@ -65,9 +61,6 @@ function hotelCost(day){
 }
 var totalCost = hotelCost(21);
 console.log(totalCost);
-
-
-
 
 
 // ===== Mega Friend Part ======

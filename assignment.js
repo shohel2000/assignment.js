@@ -1,5 +1,3 @@
-// https://github.com/shohel2000/assignment.js
-
 // ===== Kilometer To Meter Part =====
 function kilometerToMeter(kilo){
     if(kilo >= 0){
